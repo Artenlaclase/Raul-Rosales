@@ -33,6 +33,7 @@ body {
     padding: 20px;
     text-align: center;
     font-family: 'Rubik Mono One';
+    text-shadow: 2px 2px 2px #f1f1f1;
 }
 
 #text-intro {
