@@ -1,4 +1,5 @@
-# portafolio
+# curriliculum vitae Raúl Rosales 
+Fue realizado con las siguientes tecnologías
 
 (Bootstrap)(https://getbootstrap.com)
 (Bootstrap qetting-started)(https://getbootstrap.com/docs/5.2/getting-started/introduction/)
