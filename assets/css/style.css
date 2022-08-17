@@ -55,6 +55,7 @@ body {
 
 .card-text {
     font-family: 'New Tegomin', serif;
+    text-align: justify;
 }
 
 #contacto {
